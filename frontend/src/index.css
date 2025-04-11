@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: oklch(0.72 0.19 244.08);
+  --font-display: "Inter", sans-serif;
+}
